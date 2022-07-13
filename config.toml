@@ -26,10 +26,9 @@ galleria.enabled = true
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
-  { url = "$BASE_URL/posts", name = "Posts" },
-  { url = "$BASE_URL/docs", name = "Docs" },
-  { url = "$BASE_URL/tags", name = "Tags" },
-  { url = "$BASE_URL/categories", name = "Categories" },
+  { url = "$BASE_URL/publications", name = "Publications" },
+  { url = "$BASE_URL/teaching", name = "Teaching" },
+  { url = "$BASE_URL/talks", name = "Talks" },
  ]},
 ]
 
@@ -43,7 +42,7 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "DeepThought"
+name = "David Binder"
 avatar = "/images/avatar.png"
 
 # Social links
@@ -65,13 +64,13 @@ orcid = "0000-0003-1272-0972"
 
 # To add google analytics
 [extra.analytics]
-google = "<your_gtag>"
+# google = "<your_gtag>"
 
 # To add disqus comments
 [extra.commenting]
-disqus = "<your_disqus_shortname>"
+# disqus = "<your_disqus_shortname>"
 
 # To enable mapbox maps
 [extra.mapbox]
-enabled = true
-access_token = "<your_access_token>"
+# enabled = true
+# access_token = "<your_access_token>"
