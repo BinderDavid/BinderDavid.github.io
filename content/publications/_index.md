@@ -6,7 +6,7 @@ paginate_by = 5
 
 ### Conferences and Workshops
 
-- **(2022) Introduction and Elimination, Left and Right** Klaus Ostermann, David Binder, Ingo Skupin, Tim Süberkrüb and Paul Downen. *International Conference on Functional Programming (ICFP).*
+- **(2022) Introduction and Elimination, Left and Right** Klaus Ostermann, David Binder, Ingo Skupin, Tim Süberkrüb and Paul Downen. *International Conference on Functional Programming (ICFP).* [https://dl.acm.org/doi/10.1145/3547637](https://dl.acm.org/doi/10.1145/3547637)
   
   Functional programming language design has been shaped by the framework of natural deduction, in which language constructs are divided into introduction and elimination rules for producers of values.
   In sequent calculus-based languages, left introduction rules replace (right) elimination rules and provide a dedicated sublanguage for consumers of values.
@@ -16,7 +16,7 @@ paginate_by = 5
   We also propose the principle of bi-expressibility to guide and validate the design of rules for a connective.
   Finally, we deepen the well-known dualities between different connectives by means of the proof/refutation duality.
 
-- **(2022) Structural Refinement Types** David Binder, Ingo Skupin, David Läwen, Klaus Ostermann *Full paper at the workshop for Typedriven development (TYDE)* [https://doi.org/10.1145/3546196.3550163](https://doi.org/10.1145/3546196.3550163)
+- **(2022) Structural Refinement Types** David Binder, Ingo Skupin, David Läwen, Klaus Ostermann *Full paper at the workshop for Typedriven development (TYDE)* [https://dl.acm.org/doi/10.1145/3546196.3550163](https://dl.acm.org/doi/10.1145/3546196.3550163)
 
   Static types are a great form of lightweight static analysis.
   But sometimes a type like List is too coarse -- we would also like to work with its *refinements* like non-empty lists, or lists containing exactly 42 elements.
