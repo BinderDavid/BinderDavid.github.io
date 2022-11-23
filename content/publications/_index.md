@@ -28,7 +28,7 @@ paginate_by = 5
   Despite the simplicity of our approach, the resulting type system is very expressive and allows to specify and infer non-trivial properties of programs.
 
 - **(2021) Popper on Quantification** David Binder and Thomas Piecha. *Chapter in the book "Karl Popper's Science and Philosophy, Zuzana Parusniková and David Merrit (Eds.)* [https://doi.org/10.1007/978-3-030-67036-8_8](https://doi.org/10.1007/978-3-030-67036-8_8)
-[Draft.pdf](Binder-Piecha-Quantification.pdf)
+(A draft of the published paper is available [here](Binder-Piecha-Quantification.pdf))
 
   Karl Popper developed a new approach to mathematical logic with foundational aspirations in the 1940s, which was published in a series of articles between 1946 and 1949.
   This new system of logic did not have the influence that he had hoped for, despite being original, and despite anticipating problems which were discussed in the logic community only much later.
@@ -46,7 +46,7 @@ paginate_by = 5
 ### Journals
 
 - **(2017) Popper’s Notion of Duality and His Theory of Negations** David Binder and Thomas Piecha. *History and Philosophy of Logic 38(2).* [https://doi.org/10.1080/01445340.2016.1278517](https://doi.org/10.1080/01445340.2016.1278517)
-  [Draft.pdf](popper-hpl.pdf)
+  (A draft of the published paper is available [here](popper-hpl.pdf))
   
   Karl Popper developed a theory of deductive logic in the late 1940s. In his approach, logic is a metalinguistic theory
   of deducibility relations that are based on certain purely structural rules. Logical constants are then characterized in
