@@ -59,7 +59,8 @@ github = "BinderDavid"
 # behance = "<behance_username>"
 # google_scholar = "<googlescholar_userid>"
 orcid = "0000-0003-1272-0972"
-# mastodon = "<mastadon_username>"
+mastodon = "davidb"
+mastodon_server = "types.pl"
 
 
 # To add google analytics
