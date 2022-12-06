@@ -3,7 +3,7 @@ title = "David Binder"
 description = "Type theory, logic and programming languages."
 +++
 
-Welcome to my academic website. I am currently a PhD student and researcher in type theory, logic and programming languages at the University of Tübingen.
+Welcome to my academic website. I am currently a PhD student and researcher in type theory, logic and programming languages at the University of Tübingen, where you can find me [here](https://ps.informatik.uni-tuebingen.de/team/binder/).
 The research topics and areas I am mainly interested in are:
 
 - Using pure functional programming techniques for solving real problems
