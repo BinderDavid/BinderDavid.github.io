@@ -22,7 +22,7 @@ Together with Jonathan Brachthäuser and Klaus Ostermann we successfully applied
 
 - **(WS20/21) Relational Programming with miniKanren** [Link to course.](http://ps.informatik.uni-tuebingen.de/teaching/ws20/miniKanren/)
 
-  [MiniKanren](minikanren.org) is a minimalist programming language following the logic programming paradigm. Students learn how to solve problems in miniKanren by writing simple programs. Additionally, every student also has to write their own implementation of the miniKanren language, which allows to understand how logic programming works from the ground up.
+  [MiniKanren](http://minikanren.org/) is a minimalist programming language following the logic programming paradigm. Students learn how to solve problems in miniKanren by writing simple programs. Additionally, every student also has to write their own implementation of the miniKanren language, which allows to understand how logic programming works from the ground up.
 
 - **(WS19/20) Category Theory for Programmers** [Link to course.](http://ps.informatik.uni-tuebingen.de/teaching/ws19/cats/) (jointly with Ingo Skupin)
 
