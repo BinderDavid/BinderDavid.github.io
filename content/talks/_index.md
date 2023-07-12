@@ -32,3 +32,9 @@ paginate_by = 5
   + Presented at the conference "Beyond Logic" on May 24th in [Cerisy-la-Salle](http://www.ccic-cerisy.asso.fr/).
   + The slides are available in the [official proceedings](http://dx.doi.org/10.15496/publikation-18676) of the conference.
 
+### Lectures
+
+- **(2023) Algebraic Subtyping**
+
+  + Guest lecture on July 12th for the "Programming Languages II" lecture at the University of Tübingen.
+  + The slides are available [here](./12-algebraic-subtyping.generated.pdf)
