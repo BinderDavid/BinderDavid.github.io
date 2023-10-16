@@ -6,18 +6,18 @@ paginate_by = 5
 
 ### Conferences and Workshops
 
-- **(2023) Getting Into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference** Ishan Bhanuka, Lionel Parreaux, David Binder and Jonathan Immanuel Brachthäuser *Accepted at OOPSLA '23*
+- **(2023) Getting Into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference** Ishan Bhanuka, Lionel Parreaux, David Binder and Jonathan Immanuel Brachthäuser *Accepted at OOPSLA '23* [Preprint](GettingIntoTheFlow.pdf)
 
-  Creating good type error messages for global, constraint-based type inference systems is difficult. A good error
-  message should reflect the programmer’s understanding. Typical error messages, however, often reflect the
-  implementation details of the underlying constraint solving algorithm. We propose an algorithmic approach
-  that uses subtyping constraints and data flow to classify and explain type errors. This algorithm creates error
-  messages that explain the faulty data flow through locations in the source code, something which programmers
-  are already used to reasoning about. We demonstrate that integrating the algorithm with Hindley-Milner
-  type inference requires only minor modifications. We conducted a user study to evaluate the quality of our
-  error messages compared to other implementations. While the quantitative evaluation does not show that
-  flow-based messages improve localization or understanding of problems, results of the qualitative evaluation
-  suggest a real need and demand for flow-based messages.
+  Creating good type error messages for constraint-based type inference systems is difficult.
+  Typical type error messages reflect implementation details of the underlying constraint-solving algorithms rather than the
+  specific factors leading to type mismatches. We propose using subtyping constraints that capture data flow to
+  classify and explain type errors. Our algorithm explains type errors as faulty data flows, which programmers
+  are already used to reasoning about, and illustrates these data flows as sequences of relevant program locations.
+  We show that our ideas and algorithm are not limited to languages with subtyping, as they can be readily
+  integrated with Hindley-Milner type inference. In addition to these core contributions, we present the results of
+  a user study to evaluate the quality of our messages compared to other implementations. While the quantitative
+  evaluation does not show that flow-based messages improve the localization or understanding of the causes
+  of type errors, the qualitative evaluation suggests a real need and demand for flow-based messages.
 
 - **(2022) Introduction and Elimination, Left and Right** Klaus Ostermann, David Binder, Ingo Skupin, Tim Süberkrüb and Paul Downen. *International Conference on Functional Programming (ICFP).* [https://dl.acm.org/doi/10.1145/3547637](https://dl.acm.org/doi/10.1145/3547637)
   
