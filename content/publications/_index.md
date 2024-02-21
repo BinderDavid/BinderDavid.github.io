@@ -6,7 +6,7 @@ paginate_by = 5
 
 ### Conferences and Workshops
 
-- **(2023) Getting Into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference** Ishan Bhanuka, Lionel Parreaux, David Binder and Jonathan Immanuel Brachthäuser *Accepted at OOPSLA '23* [Preprint](GettingIntoTheFlow.pdf) [https://dl.acm.org/doi/10.1145/3622812](https://dl.acm.org/doi/10.1145/3622812)
+- **(2023) Getting Into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference** Ishan Bhanuka, Lionel Parreaux, David Binder and Jonathan Immanuel Brachthäuser *Accepted at OOPSLA '23* [Preprint](GettingIntoTheFlow.pdf) [https://dl.acm.org/doi/10.1145/3622812](https://dl.acm.org/doi/10.1145/3622812) [Extended Tech Report](https://arxiv.org/abs/2402.12637)
 
   Creating good type error messages for constraint-based type inference systems is difficult.
   Typical type error messages reflect implementation details of the underlying constraint-solving algorithms rather than the
