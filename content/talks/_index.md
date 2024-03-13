@@ -46,3 +46,8 @@ paginate_by = 5
 
   + Presented at the Software Technology Group, Utrecht University, March 2024
   + The slides are available [here](./Utrecht24.pdf).
+
+- **(2024) Symmetric Dependent Data and Codata Types**
+
+  + Presented at the Programming Languages Seminar, TU Delft, March 2024
+  + The slides are available [here](./Delft2024.pdf).
