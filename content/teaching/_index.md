@@ -11,6 +11,12 @@ Together with Jonathan Brachthäuser and Klaus Ostermann we successfully applied
 
 ### Seminars
 
+- **(SS24) Duality in Programming Languages** [Link to course.](https://ps.informatik.uni-tuebingen.de/teaching/ss24/dual/)
+
+  This seminar introduces the important concept of duality in the theoretical foundations of programming languages.
+  Some of the dualities that will be covered in the seminar are: The duality of data and codata types, finite and infinite data, induction and coinduction, strict and lazy evaluation, effects and coeffects, monads and comonads, and the duality of values and continuations.
+  The goal of the seminar is to convey the beauty of the symmetries and dualities in the foundational calculi for programming languages.
+
 - **(WS21/22) Abstract Machines** [Link to course.](http://ps.informatik.uni-tuebingen.de/teaching/ws21/am/)
 
   Between high-level programming languages and low-level machine models there is an intermediate category of *abstract machines*. In this seminar, students learn about abstract machines and their use in in programming language implementation and theory.
