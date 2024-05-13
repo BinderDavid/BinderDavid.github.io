@@ -48,6 +48,7 @@ Together with Jonathan Brachthäuser and Klaus Ostermann we successfully applied
 
 The following is a list of both open and finished Bachelor and Master theses that I helped supervise at the university of Tübingen. You can find out about their status by following the respective link.
 
+- [Spectrum-based Fault Localization for Haskell](https://se.informatik.uni-tuebingen.de/teaching/thesis/2022/01/10/sbfl-for-haskell/)
 - [Implementing a Monadic Testsuite Driver](https://ps.informatik.uni-tuebingen.de/teaching/thesis/2022/10/05/monadic-testing/)
 - [Supercompilation for Ouroboro](https://ps.informatik.uni-tuebingen.de/teaching/thesis/2020/08/10/supercompiling-ouroboro/)
 - [Spectrum-based Fault Localization for Haskell](https://se.informatik.uni-tuebingen.de/teaching/thesis/2022/01/10/sbfl-for-haskell/)
