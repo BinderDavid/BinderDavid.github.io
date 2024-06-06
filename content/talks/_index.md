@@ -51,3 +51,8 @@ paginate_by = 5
 
   + Presented at the Programming Languages Seminar, TU Delft, March 2024
   + The slides are available [here](./Delft2024.pdf).
+
+- **(2024) Contributing to the Error Message Index**
+
+  + Presented at the Haskell Ecosystem Workshop 2024 @ Rapperswil
+  + The slides are available [here](./ErrorIndex.pdf).
