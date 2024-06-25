@@ -5,11 +5,12 @@ paginate_by = 5
 +++
 
 ### Conferences and Workshops
-- **(2024) Functional Pearl: Grokking the Sequent Calculus** David Binder, Marco Tzschentke, Marius Müller and Klaus Ostermann. *ICFP '24*
+- **(2024) Grokking the Sequent Calculus (Functional Pearl)** David Binder, Marco Tzschentke, Marius Müller and Klaus Ostermann. *ICFP '24* [Preprint](https://arxiv.org/abs/2406.14719)
+
 
   The sequent calculus is a proof system which was designed as a more symmetric alternative to natural deduction.
   The λμμ-calculus is a term assignment system for the sequent calculus and a great foundation for compiler intermediate languages due to its first-class representation of evaluation contexts.
-  Unfortunately, usually only experts of the sequent calculus can appreciate its beauty. To remedy this, we present the first
+  Unfortunately, only experts of the sequent calculus can appreciate its beauty. To remedy this, we present the first
   introduction to the λμμ-calculus which is not directed at type theorists or logicians but at compiler hackers and programming-language enthusiasts. We do this by writing a compiler from a small but interesting surface language to the λμμ-calculus as a compiler intermediate language.
 
 - **(2024) Deriving Dependently-Typed OOP from First Principles** David Binder, Ingo Skupin, Tim Süberkrüb and Klaus Ostermann.*OOPSLA '24* [Extended Version with Additional Appendices](https://arxiv.org/abs/2403.06707) [https://dl.acm.org/doi/10.1145/3649846](https://dl.acm.org/doi/10.1145/3649846)
