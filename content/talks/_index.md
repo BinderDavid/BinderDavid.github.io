@@ -56,3 +56,8 @@ paginate_by = 5
 
   + Presented at the Haskell Ecosystem Workshop 2024 @ Rapperswil
   + The slides are available [here](./ErrorIndex.pdf).
+
+- **(2024) Persistent Data Structures: From Lists to Hashmaps**
+
+  + Presented at the [Tübingen Functional Programming Meetup](https://tu-lambda.github.io), August 2024
+  + The slides are available [here](./VortragHAMT.pdf)
