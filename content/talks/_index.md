@@ -6,6 +6,11 @@ paginate_by = 5
 
 ### Talks at Conferences and Workshops
 
+- **(2024) Grokking the Sequent Calculus (Functional Pearl)**
+
+  + Presented on September 3d at ICFP '24
+  + [Link to Slides](./grokking-sequent.pdf)
+
 - **(2022) Administrative Normal Forms and Focusing for Lambda Calculi**
 
   + Presented on September 28th at [Colloquium Logicum](https://colloquiumlogicum2020.com/) in Konstanz.
