@@ -5,7 +5,7 @@ paginate_by = 5
 +++
 
 ### Conferences and Workshops
-- **(2024) Grokking the Sequent Calculus (Functional Pearl)** David Binder, Marco Tzschentke, Marius Müller and Klaus Ostermann. *ICFP '24* [Preprint](https://arxiv.org/abs/2406.14719)
+- **(2024) Grokking the Sequent Calculus (Functional Pearl)** David Binder, Marco Tzschentke, Marius Müller and Klaus Ostermann. *ICFP '24* [Preprint](https://arxiv.org/abs/2406.14719) [https://doi.org/10.1145/3674639](https://doi.org/10.1145/3674639)
 
 
   The sequent calculus is a proof system which was designed as a more symmetric alternative to natural deduction.
