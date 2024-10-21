@@ -6,6 +6,11 @@ paginate_by = 5
 
 ### Talks at Conferences and Workshops
 
+- **(2024) From FP to OOP and Back, Consistently**
+
+  + Presented at the UNSOUND workshop at SPLASH 2024
+  + [Link to Slides](./FPtoOOP.pdf)
+
 - **(2024) Grokking the Sequent Calculus (Functional Pearl)**
 
   + Presented on September 3d at ICFP '24
