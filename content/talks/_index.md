@@ -6,6 +6,11 @@ paginate_by = 5
 
 ### Talks at Conferences and Workshops
 
+- **(2024) Deriving Dependently Typed OOP From First Principles**
+
+  + Presented at OOPSLA 2024 in Pasadena
+  + [Link to Slides](./DerivingDTOOP.pdf)
+
 - **(2024) From FP to OOP and Back, Consistently**
 
   + Presented at the UNSOUND workshop at SPLASH 2024
