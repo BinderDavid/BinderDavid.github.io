@@ -57,6 +57,11 @@ paginate_by = 5
 
 ### Informal Talks
 
+- **(2024) De-/Refunctionalization with Dependent Data and Codata Types**
+
+  + Presented on October 28th to the group of Paul Downen at UMass Lowell
+  + The slides are available [here](./LowellTalk.pdf)
+
 - **(2024) Subtyping and Type Inference**
 
   + Presented at the Software Technology Group, Utrecht University, March 2024
