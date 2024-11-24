@@ -20,6 +20,7 @@ paginate_by = 5
 
   + Presented on September 3d at ICFP '24
   + [Link to Slides](./grokking-sequent.pdf)
+  + [Link to video](https://www.youtube.com/watch?v=tRdlz5IaQ8I)
 
 - **(2022) Administrative Normal Forms and Focusing for Lambda Calculi**
 
