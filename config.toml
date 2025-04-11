@@ -29,6 +29,7 @@ navbar_items = [
   { url = "$BASE_URL/publications", name = "Publications" },
   { url = "$BASE_URL/teaching", name = "Teaching" },
   { url = "$BASE_URL/talks", name = "Talks" },
+  { url = "$BASE_URL/community", name = "Community" },
  ]},
 ]
 
