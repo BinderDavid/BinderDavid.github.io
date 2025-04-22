@@ -5,6 +5,21 @@ paginate_by = 5
 +++
 
 ### Conferences and Workshops
+
+- **(2025) The Algebra of Patterns** David Binder and Lean Ermantraut. *ECOOP '25* (upcoming)
+
+  Pattern matching is a popular feature in functional, imperative and object-oriented programming languages.
+  Language designers should therefore invest effort in a good design for pattern matching.
+  Most languages choose a *first-match semantics* for pattern matching; that is, clauses are tried in the order in which they appear in the program until the first one matches.
+  As a consequence, the order in which the clauses appear cannot be arbitrarily changed, which results in a less declarative programming model.
+  The declarative alternative to this is an *order-independent semantics* for pattern matching, which is not implemented in most programming languages since it requires more verbose patterns.
+  The reason for this verbosity is that the syntax of patterns is usually not expressive enough to express the *complement* of a pattern.
+  In this paper, we show a principled way to make order-independent pattern matching practical.
+  Our solution consists of two parts:
+  First, we introduce a *boolean algebra of patterns* which can express the complement of a pattern.
+  Second, we introduce *default clauses* to pattern matches.
+  These default clauses capture the essential idea of a fallthrough case without sacrificing the property of order-independence.
+
 - **(2024) Grokking the Sequent Calculus (Functional Pearl)** David Binder, Marco Tzschentke, Marius Müller and Klaus Ostermann. *ICFP '24* [Preprint](https://arxiv.org/abs/2406.14719) [https://doi.org/10.1145/3674639](https://doi.org/10.1145/3674639)
 
 
