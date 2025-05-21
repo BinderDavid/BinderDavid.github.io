@@ -7,6 +7,7 @@ paginate_by = 6
 ### Program Committees
 
 - Haskell Implementor's Workshop [HIW '24](https://icfp24.sigplan.org/home/hiw-2024).
+- OOPSLA '26 / SPLASH Review Committee [OOPSLA '26](https://conf.researchr.org/committee/splash-2026/splash-2026-research-papers-research-papers)
 
 ### Community
 
