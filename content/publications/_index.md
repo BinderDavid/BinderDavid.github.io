@@ -6,7 +6,7 @@ paginate_by = 5
 
 ### Conferences and Workshops
 
-- **(2025) The Algebra of Patterns** David Binder and Lean Ermantraut. *ECOOP '25* [Extended Version](https://arxiv.org/abs/2504.18920) [Rocq Proofs](https://zenodo.org/records/15308861)
+- **(2025) The Algebra of Patterns** David Binder and Lean Ermantraut. *ECOOP '25* [Extended Version](https://arxiv.org/abs/2504.18920) [Rocq Proofs](https://zenodo.org/records/15308861) [Official Version (LIPIcs)](https://doi.org/10.4230/LIPIcs.ECOOP.2025.2) [Artifact Description (DARTS)](https://doi.org/10.4230/DARTS.11.2.10)
 
   Pattern matching is a popular feature in functional, imperative and object-oriented programming languages.
   Language designers should therefore invest effort in a good design for pattern matching.
