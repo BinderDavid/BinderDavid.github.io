@@ -6,6 +6,11 @@ paginate_by = 5
 
 ### Talks at Conferences and Workshops
 
+- **(2025) The Algebra of Patterns**
+
+  + Presented at ECOOP 2025 in Bergen
+  + [Link to Slides](./AlgebraOfPatternsEcoop.pdf)
+
 - **(2024) Deriving Dependently Typed OOP From First Principles**
 
   + Presented at OOPSLA 2024 in Pasadena
