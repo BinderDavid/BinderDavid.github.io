@@ -15,3 +15,4 @@ paginate_by = 6
 - I help organize the functional programming Meetup [tu-lambda.github.io](https://tu-lambda.github.io)
 - You will find me on the [Haskell Discourse](https://discourse.haskell.org) as one of the moderators.
 - I help maintain the Haskell Program Coverage ([HPC](https://gitlab.haskell.org/hpc)) infrastructure for Haskell, and the error message index [errors.haskell.org](https://errors.haskell.org).
+- I volunteer as a mentor for the SIGPLAN-M program ([SIGPLAN-M](https://sigplan.org/LongTermMentoring/))
