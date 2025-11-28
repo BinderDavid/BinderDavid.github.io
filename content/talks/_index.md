@@ -15,11 +15,13 @@ paginate_by = 5
 
   + Presented at OOPSLA 2024 in Pasadena
   + [Link to Slides](./DerivingDTOOP.pdf)
+  + [Link to video](https://www.youtube.com/watch?v=tw7kNaHWnlQ)
 
 - **(2024) From FP to OOP and Back, Consistently**
 
   + Presented at the UNSOUND workshop at SPLASH 2024
   + [Link to Slides](./FPtoOOP.pdf)
+  + [Link to video](https://www.youtube.com/watch?v=9gv4j8YCEvg)
 
 - **(2024) Grokking the Sequent Calculus (Functional Pearl)**
 
