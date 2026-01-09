@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://binderdavid.github.io/sitemap.xml
