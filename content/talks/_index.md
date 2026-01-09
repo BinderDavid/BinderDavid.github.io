@@ -65,6 +65,11 @@ paginate_by = 5
 
 ### Informal Talks
 
+- **(2025) Reasoning about Amortized Cost: From Syntax to Semantics**
+
+  + Presented on January 9th at the [FPDag 2026](https://fpday26.cs.ru.nl) in Nijmegen
+  + The slides are available [here](./Nijmegen2026.pdf)
+
 - **(2024) De-/Refunctionalization with Dependent Data and Codata Types**
 
   + Presented on October 28th to the group of Paul Downen at UMass Lowell
