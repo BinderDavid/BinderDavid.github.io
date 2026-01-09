@@ -65,7 +65,7 @@ paginate_by = 5
 
 ### Informal Talks
 
-- **(2025) Reasoning about Amortized Cost: From Syntax to Semantics**
+- **(2026) Reasoning about Amortized Cost: From Syntax to Semantics**
 
   + Presented on January 9th at the [FPDag 2026](https://fpday26.cs.ru.nl) in Nijmegen
   + The slides are available [here](./Nijmegen2026.pdf)
