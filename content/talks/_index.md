@@ -65,6 +65,11 @@ paginate_by = 5
 
 ### Informal Talks
 
+- **(2026) Is There a Future for a Formally Specified Haskell Report?**
+
+  + Presented on March 9th to the PLaS group at the University of Kent
+  + The slides are available [here](./haskell-spec-plas.pdf)
+
 - **(2026) Reasoning about Amortized Cost: From Syntax to Semantics**
 
   + Presented on January 9th at the [FPDag 2026](https://fpday26.cs.ru.nl) in Nijmegen
