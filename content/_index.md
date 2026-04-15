@@ -3,8 +3,8 @@ title = "David Binder"
 description = "Type theory, logic and programming languages."
 +++
 
-Welcome to my academic website. I am a researcher in type theory, logic and programming languages at the University of Kent, and previously at the University of Tübingen, where you can find me [here](https://ps.informatik.uni-tuebingen.de/team/binder/).
-The research topics and areas I am mainly interested in are:
+Welcome to my academic website. I am a lecturer at the University of Kent, where you can find me [here](https://www.kent.ac.uk/school-of-computing/people/5623/binder-dr-david), and have previously been at the University of Tübingen, where you can find me [here](https://ps.informatik.uni-tuebingen.de/team/binder/).
+I am a researcher in type theory and programming languages and mainly interested in the following research topics:
 
 - Using pure functional programming techniques for solving real problems
 - The duality of data types and codata types, and inductive and coinductive definitions
