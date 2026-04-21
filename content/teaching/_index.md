@@ -9,6 +9,10 @@ paginate_by = 5
 I am interested in developing new methods to better teach computer science.
 Together with Jonathan Brachthäuser and Klaus Ostermann we successfully applied for funds for our project "Informatik Interaktiv Erfahrbar Machen" with the [Dr. K. H. Eberle Stiftung](https://dreberlestiftung.de/). [(Link to press release.)](https://idw-online.de/de/news788056). In that project, we are developing new forms of lecture notes which embed interactive elements to improve the learning experience of our students.
 
+### Lectures
+
+- **(2026) COMP4106 - Computer Systems** Together with Dominic Orchard and Doug Santry. The module description is available [here](https://www.kent.ac.uk/courses/modules/module/COMP4106).
+
 ### Seminars
 
 - **(SS24) Duality in Programming Languages** [Link to course.](https://ps.informatik.uni-tuebingen.de/teaching/ss24/dual/)
