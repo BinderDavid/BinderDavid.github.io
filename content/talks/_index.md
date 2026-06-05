@@ -67,6 +67,11 @@ paginate_by = 5
 
 - **(2026) Is There a Future for a Formally Specified Haskell Report?**
 
+  + Presented on June 5th at Haskell Implementor's Workshop (HIW) at Zurihac, Rapperswil
+  + The slides are available [here](./hiw-talk-2026.pdf)
+
+- **(2026) Is There a Future for a Formally Specified Haskell Report?**
+
   + Presented on March 9th to the PLaS group at the University of Kent
   + The slides are available [here](./haskell-spec-plas.pdf)
 
