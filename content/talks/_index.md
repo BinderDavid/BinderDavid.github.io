@@ -69,6 +69,7 @@ paginate_by = 5
 
   + Presented on June 5th at Haskell Implementor's Workshop (HIW) at Zurihac, Rapperswil
   + The slides are available [here](./hiw-talk-2026.pdf)
+  + [Link to video](https://www.youtube.com/watch?v=qk_P8piUclI&list=PLV9Q98f69SkA&index=7)
 
 - **(2026) Is There a Future for a Formally Specified Haskell Report?**
 
