@@ -4,7 +4,16 @@ sort_by = "date"
 paginate_by = 5
 +++
 
-### Conferences and Workshops
+### Peer-reviewed Papers at Conferences, Workshops and Journals
+
+- **(2026) Compiling with the Sequent Calculus** Marius Müller, David Binder, Marco Tzschentke, Philipp Schuster, Klaus Ostermann and Jonathan Immanuel Brachthäuser. *TOPLAS*
+
+  Compiling a high-level functional programming language to machine code that can be executed efficiently on a modern machine is complicated, since we have to traverse many different levels of abstraction.
+  This is particularly challenging if the language contains some form of control effects and a mix of different evaluation strategies, such as call-by-value data types and call-by-name codata types.
+  In this paper, we tell the complete story, starting from a simple functional programming language with control effects and both data and codata types, and ending up with machine code for standard platforms.
+  What distinguishes our compiler from all other existing compilers for functional programming languages is that, instead of natural-deduction-based languages like the lambda calculus, we use sequent-calculus-inspired languages throughout all intermediate stages.
+  These sequent-calculus-based languages are characterized by the first-class nature of consumers, which represent program contexts.
+  In this sense, we view our work as a continuation, and generalization, of Andrew Appel's landmark work on "Compiling with Continuations".
 
 - **(2025) Filling the Gaps of Polarity: Implementing Dependent Data and Codata Types with Implicit Arguments** Bohdan Liesnikov, David Binder and Tim Süberkrüb. *Programming '26* [Published Version](https://doi.org/10.22152/programming-journal.org/2025/10/19)
 
@@ -88,8 +97,6 @@ paginate_by = 5
 - **(2020) Decomposition Diversity with Symmetric Data and Codata** Klaus Ostermann, Julian Jabs, David Binder and Ingo Skupin. *Principles of Programming Languages (POPL).* [https://doi.org/10.1145/3371098](https://doi.org/10.1145/3371098)
 
   The expression problem describes a fundamental trade-off in program design: Should a program’s primary decomposition be determined by the way its domain objects are constructed (“functional” decomposition), or by the way they are destructed (“object-oriented” decomposition)? We argue that programming languages should not force one of these decompositions on the programmer; rather, a programming language should support both ways of decomposing a program in a symmetric way, with an easy translation between these decompositions. However, current programming languages are usually not symmetric and hence make it unnecessarily hard to switch the decomposition. We propose a language that is symmetric in this regard and allows a fully automatic translation between “functional” and “object-oriented” decomposition. We present a language with algebraic data types and pattern matching for “functional” decomposition and codata types and copattern matching for “object-oriented” decomposition, together with a bijective translation that turns a data type into a codata type (“destructorization”) or vice versa (“constructorization”). We present the first symmetric programming language with support for local (co)pattern matching, which includes local anonymous function or object definitions, that allows an automatic translation as described above. We also present the first mechanical formalization of such a language and prove i) that the type system is sound, that the translations between data and codata types are ii) type-preserving, iii) behavior-preserving and iv) inverses of each other. We also extract a mechanically verified implementation from our formalization and have implemented an IDE with direct support for these translations.
-
-### Journals
 
 - **(2017) Popper’s Notion of Duality and His Theory of Negations** David Binder and Thomas Piecha. *History and Philosophy of Logic 38(2).* [https://doi.org/10.1080/01445340.2016.1278517](https://doi.org/10.1080/01445340.2016.1278517)
   (A draft of the published paper is available [here](popper-hpl.pdf))
