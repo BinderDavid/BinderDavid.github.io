@@ -6,7 +6,7 @@ paginate_by = 5
 
 ### Peer-reviewed Papers at Conferences, Workshops and Journals
 
-- **(2026) Compiling with the Sequent Calculus** Marius Müller, David Binder, Marco Tzschentke, Philipp Schuster, Klaus Ostermann and Jonathan Immanuel Brachthäuser. *TOPLAS*
+- **(2026) Compiling with the Sequent Calculus** Marius Müller, David Binder, Marco Tzschentke, Philipp Schuster, Klaus Ostermann and Jonathan Immanuel Brachthäuser. *TOPLAS* [Published Version](https://doi.org/10.1145/3845991)
 
   Compiling a high-level functional programming language to machine code that can be executed efficiently on a modern machine is complicated, since we have to traverse many different levels of abstraction.
   This is particularly challenging if the language contains some form of control effects and a mix of different evaluation strategies, such as call-by-value data types and call-by-name codata types.
