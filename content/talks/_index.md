@@ -65,6 +65,11 @@ paginate_by = 5
 
 ### Informal Talks
 
+- **(2026) Past, Present and Future of the Haskell Language Report**
+
+  + Presented on September 17th at the London Haskell Meetup and on October 10th at [Munihac](https://munihac.de/2026.html)
+  + The slides are available [here](./munihac_haskell_report.pdf)
+
 - **(2026) Is There a Future for a Formally Specified Haskell Report?**
 
   + Presented on June 5th at Haskell Implementor's Workshop (HIW) at Zurihac, Rapperswil
