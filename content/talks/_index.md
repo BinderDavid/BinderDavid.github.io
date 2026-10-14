@@ -65,6 +65,11 @@ paginate_by = 5
 
 ### Informal Talks
 
+- **(2026) Epistemology and Philosophy of Science**
+
+  + Presented at the PGR Seminar to students at the University of Kent
+  + The slides are available [here](./epistemology-pos.pdf)
+
 - **(2026) Past, Present and Future of the Haskell Language Report**
 
   + Presented on September 17th at the London Haskell Meetup and on October 10th at [Munihac](https://munihac.de/2026.html)
