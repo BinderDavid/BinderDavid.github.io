@@ -12,6 +12,7 @@ Together with Jonathan Brachthäuser and Klaus Ostermann we successfully applied
 ### Lectures
 
 - **(2026) COMP4106 - Computer Systems** Together with Dominic Orchard and Doug Santry. The module description is available [here](https://www.kent.ac.uk/courses/modules/module/COMP4106).
+- **(2026) COMP7015 - Computer Systems** Together with Mark Batty. The module description is available [here](https://www.kent.ac.uk/courses/modules/module/COMP7015).
 
 ### Seminars
 
